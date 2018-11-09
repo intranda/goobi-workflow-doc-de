@@ -8,5 +8,3 @@ Um einen Workflowschritt als automatisch zu kennzeichnen, muss die Checkbox `Aut
 
 ![Konfiguration f&#xFC;r automatische Workflowschritte](../../.gitbook/assets/86d.png)
 
-
-

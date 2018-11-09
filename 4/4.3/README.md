@@ -8,5 +8,3 @@ Für Benutzer, die solche erweiterten Rechte in Goobi nicht besitzen, besteht di
 
 ![Metadateneditor erreichbar f&#xFC;r zust&#xE4;ndige Benutzer aus dem Bereich &#x201A;Meine Aufgaben&#x2019;](../../.gitbook/assets/36d.png)
 
-
-
