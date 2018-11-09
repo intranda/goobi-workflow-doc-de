@@ -17,7 +17,7 @@ Im Bereich dieses Basispfades bestehen im Allgemeinen folgende Verzeichnisse:
 /opt/digiverso/viewer/
 ```
 
-Das Verzeichnis logs ist hierbei das zentrale Verzeichnis für Logdateien. Auch die Goobi-Log-Dateien werden bei korrekter Konfiguration an dieser Stelle gespeichert. Die anderen hier aufgeführten Verzeichnisse stehen jeweils für unterschiedliche Applikationen, wie sie häufig Verwendung finden \(z.B. viewer für intranda viewer, itm für intranda Task Manager und goobi für Goobi.
+Das Verzeichnis `logs` ist hierbei das zentrale Verzeichnis für Logdateien. Auch die Goobi-Log-Dateien werden bei korrekter Konfiguration an dieser Stelle gespeichert. Die anderen hier aufgeführten Verzeichnisse stehen jeweils für unterschiedliche Applikationen, wie sie häufig Verwendung finden \(z.B. `viewer` für Goobi viewer, `itm` für intranda Task Manager und `goobi` für Goobi.
 
 Der Basispfad für Goobi lautet entsprechend:
 
