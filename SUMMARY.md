@@ -82,6 +82,7 @@
     * [6.5.1. Beispielkombination für einen automatischen Skript Schritt](6/6.5/6.5.1.md)
     * [6.5.2. Migration technischer Metadaten in METS-Dateien](6/6.5/6.5.2.md)
     * [6.5.3. Automatisches Löschen von Images](6/6.5/6.5.3.md)
+* [6.6. REST API](6.6.-rest-api.md)
 * [7. Glossar und Abkürzungen](7.md)
 * [8. Zusätzliche Details](8.md)
 
