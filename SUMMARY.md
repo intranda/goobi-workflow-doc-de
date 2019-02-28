@@ -87,3 +87,11 @@
 * [7. Glossar und Abkürzungen](7.md)
 * [8. Zusätzliche Details](8.md)
 
+## Use Cases
+
+* [Wellcome Editorial Photography Workflow](use-cases/wellcome-editorial-photography-workflow.md)
+
+## Entwickler
+
+* [Untitled](entwickler/untitled.md)
+
