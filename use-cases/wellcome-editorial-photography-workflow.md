@@ -128,6 +128,8 @@ Dabei müssen die `templateid`, das `token` und der `hotfolder` noch angepasst w
 
 ## Benötigte Dateien
 
+{% code-tabs %}
+{% code-tabs-item title="tiff-template.xml" %}
 ```markup
 <tifValidationConfig>
     <namespace uri="http://www.loc.gov/mix/v20" name="mix" />
@@ -157,4 +159,14 @@ Dabei müssen die `templateid`, das `token` und der `hotfolder` noch angepasst w
     </check>
 </tifValidationConfig>
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title=" ruleset\_wellcome.xml" %}
+```markup
+<ruleset/>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
