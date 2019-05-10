@@ -162,3 +162,5 @@ Dabei müssen die `templateid`, das `token` und der `hotfolder` noch angepasst w
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+{% file src="../.gitbook/assets/use\_case\_ruleset\_wellcome\_tandemvault.xml" caption="Ruleset" %}
+
