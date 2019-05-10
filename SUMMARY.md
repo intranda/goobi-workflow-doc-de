@@ -95,4 +95,5 @@
 
 * [1. Snippets](entwickler/untitled/README.md)
   * [1.1 HTML](entwickler/untitled/1.1-html.md)
+  * [1.2 JavaScript](entwickler/untitled/1.2-javascript.md)
 
