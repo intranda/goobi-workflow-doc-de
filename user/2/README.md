@@ -5,12 +5,12 @@ Bevor auf die Arbeitsweise spezieller Nutzergruppen im Detail eingegangen wird, 
 Wenn Sie Goobi zum ersten Mal öffnen möchten, besuchen Sie in Ihrem Web-Browser einfach die Adresse ihrer lokalen Goobi-Installation. Beispiel:
 
 ```text
-http://goobi.intranda.com
+http://workflow.goobi.io
 ```
 
 In Ihrem Web-Browser sollte Goobi ähnlich wie in folgender Abbildung sichtbar werden.
 
-![Startseite von Goobi](../../.gitbook/assets/01d.png)
+![Startseite von Goobi](../../.gitbook/assets/30-01d.png)
 
 
 
