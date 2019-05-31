@@ -6,7 +6,7 @@
 
 ## Anwender
 
-* [1. Einführung in Goobi für Anwender](user/1.md)
+* [1. Goobi für Anwender](user/1.md)
 * [2.  Allgemeines](user/2/README.md)
   * [2.1.  Einloggen](user/2/2.1.md)
   * [2.2. Menü](user/2/2.2.md)
@@ -46,7 +46,7 @@
 
 ## Management
 
-* [1. Einführung in die Verwaltung von Goobi](manager/1.md)
+* [1. Die Verwaltung von Goobi](manager/1.md)
 * [2. Aufbau der erweiterten Nutzeroberfläche](manager/2.md)
 * [3. Regelsätze](manager/3.md)
 * [4. LDAP-Gruppen](manager/4.md)
@@ -61,7 +61,7 @@
 
 ## Administration
 
-* [1. Einführung in die Administration von Goobi](admin/1.md)
+* [1. Die Administration von Goobi](admin/1.md)
 * [2. Dateisystem](admin/2/README.md)
   * [2.1. Globale Verzeichnisstruktur](admin/2/2.1/README.md)
     * [2.1.1. Unterverzeichnis ‚config’](admin/2/2.1/2.1.1.md)
@@ -99,6 +99,6 @@
 
 ## Sonstiges
 
-* [1. Glossar und Abkürzungen](other/1.md)
-* [2. Zusätzliche Details](other/2.md)
+* [Glossar und Abkürzungen](other/1.md)
+* [Zusätzliche Details](other/2.md)
 
