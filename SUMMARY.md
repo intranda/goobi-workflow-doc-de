@@ -22,7 +22,7 @@
 * [3. Arbeiten mit Goobi für spezielle Benutzergruppen](user/3/README.md)
   * [3.1. Scannen](user/3/3.1.md)
   * [3.2. Qualitätskontrolle](user/3/3.2.md)
-  * [3.3. Manuelle Skriptschritte](user/3/3.3.md)
+  * [3.3. Manuelle Skriptschritte und Pluginschritte](user/3/3.3.md)
   * [3.4. Automatische Skriptschritte](user/3/3.4.md)
   * [3.5. Metadatenbearbeitung](user/3/3.5.md)
   * [3.6. Export in das DMS](user/3/3.6.md)
