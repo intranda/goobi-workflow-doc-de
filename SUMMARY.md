@@ -37,12 +37,12 @@
       * [4.2.2.1. Neue Strukturelemente hinzufügen](user/4/4.2/4.2.2/4.2.2.1.md)
       * [4.2.2.2. Strukturelemente verschieben](user/4/4.2/4.2.2/4.2.2.2.md)
       * [4.2.2.3. Kopieren von Strukturelementen aus anderen Vorgängen](user/4/4.2/4.2.2/4.2.2.3.md)
-    * [4.3. Änderung und Prüfung von Daten](user/4/4.2/4.3/README.md)
-      * [4.3.1. Paginierung nachträglich ändern](user/4/4.2/4.3/4.3.1.md)
-      * [4.3.2. Datei hochladen](user/4/4.2/4.3/4.3.2.md)
-      * [4.3.3. Datei herunterladen](user/4/4.2/4.3/4.3.3.md)
-      * [4.3.4. Serverseitiges exportierten](user/4/4.2/4.3/4.3.4.md)
-      * [4.3.5. Serverseitiges importieren](user/4/4.2/4.3/4.3.5.md)
+  * [4.3. Änderung und Prüfung von Daten](user/4/4.3/README.md)
+    * [4.3.1. Paginierung nachträglich ändern](user/4/4.3/4.3.1.md)
+    * [4.3.2. Datei hochladen](user/4/4.3/4.3.2.md)
+    * [4.3.3. Datei herunterladen](user/4/4.3/4.3.3.md)
+    * [4.3.4. Serverseitiges exportierten](user/4/4.3/4.3.4.md)
+    * [4.3.5. Serverseitiges importieren](user/4/4.3/4.3.5.md)
 
 ## Management
 
