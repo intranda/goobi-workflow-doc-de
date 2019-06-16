@@ -87,6 +87,9 @@
   * [6.1. Beispielkombination für einen automatischen Skript Schritt](admin/6/6.1.md)
   * [6.2. Migration technischer Metadaten in METS-Dateien](admin/6/6.2.md)
   * [6.3. Automatisches Löschen von Images](admin/6/6.3.md)
+* [7. Konfigurationsdateien](admin/7/README.md)
+  * [7.1 goobi\_digitalCollections.xml](admin/7/7.1.md)
+  * [7.2 goobi\_opac.xml](admin/7/7.2.md)
 
 ## Entwickler
 
