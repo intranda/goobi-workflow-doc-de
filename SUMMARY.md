@@ -91,7 +91,7 @@
   * [7.1 goobi\_digitalCollections.xml](admin/7/7.1.md)
   * [7.2 goobi\_opac.xml](admin/7/7.2.md)
   * [7.3 goobi\_metadataDisplayRules.xml](admin/7/7.3/README.md)
-    * [7.4 goobi\_mail.xml](admin/7/7.3/7.4-goobi_mail.xml.md)
+    * [7.4 goobi\_mail.xml](admin/7/7.3/7.4.md)
 * [8. Installationsanleitung](admin/8.md)
 
 ## Entwickler <a id="dev"></a>
