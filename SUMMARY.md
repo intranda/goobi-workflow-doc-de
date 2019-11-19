@@ -92,7 +92,9 @@
   * [7.2 goobi\_opac.xml](admin/7/7.2.md)
   * [7.3 goobi\_metadataDisplayRules.xml](admin/7/7.3/README.md)
     * [7.4 goobi\_mail.xml](admin/7/7.3/7.4.md)
-* [8. Installationsanleitung](admin/8.md)
+* [8. Installationsanleitung](admin/8/README.md)
+  * [8.1 Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
+  * [8.2 Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
 
 ## Entwickler <a id="dev"></a>
 

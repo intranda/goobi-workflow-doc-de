@@ -8,8 +8,7 @@ In der Konfigurationsdatei `goobi_metadataDisplayRules.xml` wird festgelegt, wie
 
 In dieser Konfigurationsdatei wird beschrieben, wie einzelne Metadatenfelder dargestellt werden sollen. So kann unter anderem festgelegt werden, das Felder beispielsweise als Eingabefelder, Auswahllisten, Read-Only-Felder etc. angezeigt werden und entsprechend unterschiedlich durch den Nutzer bearbeitet werden können. Beispielhaft hier einmal eine solche Konfigurationsdatei:
 
-{% code-tabs %}
-{% code-tabs-item title="goobi\_metadataDisplayRules.xml" %}
+{% code title="goobi\_metadataDisplayRules.xml" %}
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
 <displayRules>
@@ -92,8 +91,7 @@ In dieser Konfigurationsdatei wird beschrieben, wie einzelne Metadatenfelder dar
     </ruleSet>
 </displayRules>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 In dieser Konfigurationsdatei kann innerhalb des Attributs `projectName` festgelegt werden, für welche Projekte diese individuell konfigurierte Anzeige gelten soll.  Darüber hinaus kann aus einer Liste verschiedener Feldtypen ausgewählt werden:
 
