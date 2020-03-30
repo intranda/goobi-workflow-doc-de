@@ -1,3 +1,7 @@
+---
+description: Dokumentation für die Open-Source-Software Goobi workflow von intranda
+---
+
 # Goobi workflow Handbuch
 
 Vor Ihnen liegt das Goobi Handbuch. Dies ist die offizielle Dokumentation der intranda GmbH als Kernentwickler der Open-Source Workflowsteuerungssoftware Goobi. Die Dokumentation besteht aus mehreren Teilen. Es fließen in diese Dokumentation sowohl die Erfahrungen mehrerer Jahre Entwicklungsarbeit in Goobi als auch mehrerer Jahre Installation und Betreuung verschiedener produktiver Instanzen von Goobi an zahlreichen Einrichtungen in mehreren Ländern Europas ein. Häufige Fragen von Anwendern, typische Einsatzszenarien für unterschiedliche Projekte und verschiedene Herangehensweisen einzelner Einrichtungen sind dabei im Gesamtumfang dieses Handbuchs berücksichtigt.
