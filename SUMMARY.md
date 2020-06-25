@@ -96,7 +96,6 @@
 * [8. Installationsanleitung](admin/8/README.md)
   * [8.1 Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
-  * [8.3 Installationsanleitung Ubuntu 18.04 \(english\)](https://docs.goobi.io/goobi-workflow-en/admin/8/8.2)
 
 ## Entwickler <a id="dev"></a>
 
