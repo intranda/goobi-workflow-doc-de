@@ -100,7 +100,7 @@
 * [9. Updateanleitung](admin/9.md)
 * [10. Möglichkeiten der Authentifizierung](admin/10/README.md)
   * [10.1. Authentifizierung über die Datenbank](admin/10/10.1.md)
-  * [10.2. Authentifizierung über CAS \(HTTP-Header\)](admin/10/10.2.md)
+  * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
 
 ## Entwickler <a id="dev"></a>
 
