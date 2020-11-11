@@ -10,6 +10,7 @@ Das Verzeichnis `metadata` ist das zentrale Verzeichnis für die Speicherung von
 1234/import/
 1234/validation/
 1234/taskmanager/
+1234/thumbs/
 ```
 
 Neben der zentralen Metadatendatei `meta.xml` befinden sich je nach Konfiguration gegebenenfalls noch weitere Backupdateien wie z.B. `meta.xml.1`, `meta.xml.2`, `meta.xml.3`
@@ -34,6 +35,17 @@ Neben dem Verzeichnis `images` kann ebenfalls ein Verzeichnis `ocr` vorhanden se
 1234/ocr/abc_wc/
 1234/ocr/abc_xml/
 ```
+
+Im Ordner `thumbs` können kleinere Versionen der in `images` liegenden Bilder gespeichert werden, die Goobi verwendet um die Bilder in geringer Auflösung darzustellen. Dies erhöht die Geschwindigkeit der Bildanzeige bei größeren Bildern erheblich. Für jeden Unterordner von `images` können ein oder mehrere Unterordner in `thumbs` angelegt werden, die den selben Namen tragen wie der `images` Unterordner, erweitert um einen zusätzlichen Unterstrich \_ und eine Größenangabe in Pixeln. Diese Größenangabe muss dem Maximum von Höhe und Breite der Bilder im jeweiligen Unterordner entsprechen. Die Dateinamen der Bilder im `thumbs` Unterordner müssen denen der Bilder im passenden `images` Unterordner entsprechen, jedoch mit der Dateiendung `.jpg`.
+
+```bash
+1234/thumbs/abc_media_800/
+1234/thumbs/abc_media_3000/
+1234/thumbs/master_abc_media_800/
+1234/thumbs/master_abc_media_3000/
+```
+
+Wenn zu einer Bilddatei in `images` passende Bilder in `thumbs` vorhanden sind, dann werden diese in Goobi automatisch verwendet für die Anzeige von Thumbnails und zoombaren Bildern im herausgezoomten Zustand.
 
 Sollte auf dem Goobi-Server und auch in den verwendeten Workflows eine automatische Validierung z.B. der Images stattfinden, existiert das Verzeichnis `validation`.
 
