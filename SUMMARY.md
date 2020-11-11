@@ -98,6 +98,9 @@
   * [8.1 Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2 Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
 * [9. Updateanleitung](admin/9.md)
+* [10. Möglichkeiten der Authentifizierung](admin/10.-moeglichkeiten-der-authentifizierung/README.md)
+  * [10.1. Authentifizierung über die Datenbank](admin/10.-moeglichkeiten-der-authentifizierung/10.1.-authentifizierung-ueber-die-datenbank.md)
+  * [10.2. Authentifizierung über CAS \(HTTP-Header\)](admin/10.-moeglichkeiten-der-authentifizierung/10.2.-authentifizierung-ueber-cas-http-header.md)
 
 ## Entwickler <a id="dev"></a>
 
