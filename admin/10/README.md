@@ -6,5 +6,7 @@ Im Folgenden sollen einige der typischen Authentifizierungsmöglichkeiten von Go
 
 {% page-ref page="10.2.md" %}
 
+{% page-ref page="10.3.md" %}
+
 
 
