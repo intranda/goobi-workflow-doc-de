@@ -66,7 +66,8 @@
   * [2.1. Globale Verzeichnisstruktur](admin/2/2.1/README.md)
     * [2.1.1. Unterverzeichnis ‚config’](admin/2/2.1/2.1.1.md)
     * [2.1.2. Unterverzeichnis ‚import’](admin/2/2.1/2.1.2.md)
-    * [2.1.3.  Unterverzeichnis ‚metadata’](admin/2/2.1/2.1.3.md)
+    * [2.1.3.  Unterverzeichnis ‚metadata’](admin/2/2.1/2.1.3/README.md)
+      * [2.1.3.1. 3D Objekte](admin/2/2.1/2.1.3/2.1.3.1..md)
     * [2.1.4. Unterverzeichnis ‚plugins’](admin/2/2.1/2.1.4.md)
     * [2.1.5. Unterverzeichnis ‚rulesets’](admin/2/2.1/2.1.5.md)
     * [2.1.6. Unterverzeichnis ‚scripts’](admin/2/2.1/2.1.6.md)
@@ -94,9 +95,15 @@
   * [7.4 goobi\_mail.xml](admin/7/7.4.md)
   * [7.5 goobi\_rest.xml](admin/7/7.5-goobi_rest.xml.md)
 * [8. Installationsanleitung](admin/8/README.md)
-  * [8.1 Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
-  * [8.2 Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
-* [9. Updateanleitung](admin/9.md)
+  * [8.1. Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
+  * [8.2. Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
+* [9. Updateanleitung](admin/9/README.md)
+  * [9.1. Vorbereitung eines Updates](admin/9/9.1.-vorbereitung-eines-updates.md)
+  * [9.2. Updateschritte](admin/9/9.2.-updateschritte.md)
+* [10. Möglichkeiten der Authentifizierung](admin/10/README.md)
+  * [10.1. Authentifizierung über die Datenbank](admin/10/10.1.md)
+  * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
+  * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
 
 ## Entwickler <a id="dev"></a>
 
