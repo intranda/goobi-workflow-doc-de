@@ -105,6 +105,7 @@
   * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
   * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
 * [11. Anwendungsszenarien](admin/11/README.md)
+  * [11.1. Thumbnails erzeugen für beschleunigte Bildanzeige](admin/11/11.1.md)
 
 ## Entwickler <a id="dev"></a>
 
