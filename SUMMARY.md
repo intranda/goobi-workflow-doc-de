@@ -104,6 +104,7 @@
   * [10.1. Authentifizierung über die Datenbank](admin/10/10.1.md)
   * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
   * [10.3. Authentifizierung über OpenID Connect](admin/10/10.3.md)
+* [11. Anwendungsszenarien](admin/11/README.md)
 
 ## Entwickler <a id="dev"></a>
 
