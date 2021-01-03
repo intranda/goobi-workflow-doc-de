@@ -98,8 +98,8 @@
   * [8.1. Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2. Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
 * [9. Updateanleitung](admin/9/README.md)
-  * [9.1. Vorbereitung eines Updates](admin/9/9.1.-vorbereitung-eines-updates.md)
-  * [9.2. Updateschritte](admin/9/9.2.-updateschritte.md)
+  * [9.1. Vorbereitung eines Updates](admin/9/9.1.md)
+  * [9.2. Updateschritte](admin/9/9.2.md)
 * [10. Möglichkeiten der Authentifizierung](admin/10/README.md)
   * [10.1. Authentifizierung über die Datenbank](admin/10/10.1.md)
   * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
@@ -120,4 +120,3 @@
 
 * [Glossar und Abkürzungen](other/1.md)
 * [Zusätzliche Details](other/2.md)
-
