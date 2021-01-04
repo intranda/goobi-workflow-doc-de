@@ -93,7 +93,7 @@
   * [7.2 goobi\_opac.xml](admin/7/7.2.md)
   * [7.3 goobi\_metadataDisplayRules.xml](admin/7/7.3.md)
   * [7.4 goobi\_mail.xml](admin/7/7.4.md)
-  * [7.5 goobi\_rest.xml](admin/7/7.5-goobi_rest.xml.md)
+  * [7.5 goobi\_rest.xml](admin/7/7.5.md)
 * [8. Installationsanleitung](admin/8/README.md)
   * [8.1. Installationsanleitung - Ubuntu 16.04](admin/8/8.1.md)
   * [8.2. Installationsanleitung - Ubuntu 18.04](admin/8/8.2.md)
@@ -116,8 +116,3 @@
 * [2. Snippets](dev/2/README.md)
   * [2.1 HTML](dev/2/2.1.md)
   * [2.2 JavaScript](dev/2/2.2.md)
-
-## Sonstiges <a id="other"></a>
-
-* [Glossar und Abkürzungen](other/1.md)
-* [Zusätzliche Details](other/2.md)
