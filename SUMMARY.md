@@ -110,9 +110,7 @@
 
 ## Entwickler <a id="dev"></a>
 
-* [1. API Beschreibungen](dev/1/README.md)
-  * [1.1. REST API](dev/1/1.1.md)
-  * [1.2. Test Doku Api](dev/1/1.2.md)
-* [2. Snippets](dev/2/README.md)
+* [1. Nutzung der REST-API](dev/1.md)
+* [2. Snippets für die Entwicklung an Goobi workflow](dev/2/README.md)
   * [2.1 HTML](dev/2/2.1.md)
   * [2.2 JavaScript](dev/2/2.2.md)
