@@ -12,7 +12,7 @@ Zu Fragen rund um diese Dokumentation, für Anregungen zum weiteren Ausbau diese
 
 | **Kontakt** |  |
 | :--- | :--- |
-| Anschrift: | intranda GmbH Bertha-von-Suttner Str. 9 D - 37085 Göttingen |
+| Anschrift: | intranda GmbH, Bertha-von-Suttner Str. 9, D-37085 Göttingen |
 | Telefon: | +49 551 291 76 100 |
 | Fax: | +49 551 291 76 105  |
 | E-Mail: | [info@intranda.com](mailto:info@intranda.com) |
