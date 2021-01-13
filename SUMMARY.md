@@ -114,3 +114,4 @@
 * [2. Snippets für die Entwicklung an Goobi workflow](dev/2/README.md)
   * [2.1 HTML](dev/2/2.1.md)
   * [2.2 JavaScript](dev/2/2.2.md)
+
