@@ -43,7 +43,7 @@
     * [4.3.3. Datei herunterladen](user/4/4.3/4.3.3.md)
     * [4.3.4. Serverseitiges exportierten](user/4/4.3/4.3.4.md)
     * [4.3.5. Serverseitiges importieren](user/4/4.3/4.3.5.md)
-  * [4.4. OCR Ergebnisse bearbeiten](user/4/4.4/README.md)
+  * [4.4. OCR Ergebnisse bearbeiten](user/4/4.4.md)
 
 ## Management <a id="manager"></a>
 
