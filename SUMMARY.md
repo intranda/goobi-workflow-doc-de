@@ -75,6 +75,7 @@
     * [2.1.7. Unterverzeichnis ‚xslt’](admin/2/2.1/2.1.7.md)
   * [2.2. Verzeichnisstruktur der Applikation](admin/2/2.2.md)
   * [2.3. Einbindung von externem Storage](admin/2/2.3.md)
+  * [2.4. Einbindung von S3 als Storage](admin/2/2.4.md)
 * [3. Dienste](admin/3/README.md)
   * [3.1. Datenbank MySQL](admin/3/3.1.md)
   * [3.2. Servlet Container Apache Tomcat](admin/3/3.2.md)
