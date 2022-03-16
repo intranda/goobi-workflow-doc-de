@@ -111,9 +111,12 @@
   * [11.2 Export von 3D-Objekten in den Goobi viewer](admin/11/11.2.md)
 
 ## Entwickler <a id="dev"></a>
-
-* [1. Nutzung der REST-API](dev/1.md)
-* [2. Snippets für die Entwicklung an Goobi workflow](dev/2/README.md)
-  * [2.1 HTML](dev/2/2.1.md)
-  * [2.2 JavaScript](dev/2/2.2.md)
+* [1. Aufsetzen einer Entwicklungsumgebung](dev/1/README.md)
+  * [1.1 Vorbereitende Arbeiten](dev/3/3.1.md)
+  * [1.2 Einrichtung von Eclipse](dev/3/3.2.md)
+  * [1.3 Zurücksetzen der Daten](dev/3/3.3.md)
+* [2. Nutzung der REST-API](dev/2.md)
+* [3. Snippets für die Entwicklung an Goobi workflow](dev/3/README.md)
+  * [3.1 HTML](dev/3/3.1.md)
+  * [3.2 JavaScript](dev/3/3.2.md)
 
