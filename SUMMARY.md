@@ -112,9 +112,9 @@
 
 ## Entwickler <a id="dev"></a>
 * [1. Aufsetzen einer Entwicklungsumgebung](dev/1/README.md)
-  * [1.1 Vorbereitende Arbeiten](dev/3/3.1.md)
-  * [1.2 Einrichtung von Eclipse](dev/3/3.2.md)
-  * [1.3 Zurücksetzen der Daten](dev/3/3.3.md)
+  * [1.1 Vorbereitende Arbeiten](dev/3/1.1.md)
+  * [1.2 Einrichtung von Eclipse](dev/3/1.2.md)
+  * [1.3 Zurücksetzen der Daten](dev/3/1.3.md)
 * [2. Nutzung der REST-API](dev/2.md)
 * [3. Snippets für die Entwicklung an Goobi workflow](dev/3/README.md)
   * [3.1 HTML](dev/3/3.1.md)
