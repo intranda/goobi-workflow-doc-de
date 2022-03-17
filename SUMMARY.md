@@ -115,6 +115,7 @@
   * [1.1 Vorbereitende Arbeiten](dev/1/1.1.md)
   * [1.2 Einrichtung von Eclipse](dev/1/1.2.md)
   * [1.3 Zurücksetzen der Daten](dev/1/1.3.md)
+  * [1.4 Best Practice](dev/1/1.4.md)
 * [2. Nutzung der REST-API](dev/2.md)
 * [3. Snippets für die Entwicklung an Goobi workflow](dev/3/README.md)
   * [3.1 HTML](dev/3/3.1.md)

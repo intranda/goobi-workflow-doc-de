@@ -7,3 +7,5 @@ Für die Entwicklung von Goobi workflow arbeiten wir üblicherweise mit der Entw
 {% page-ref page="1.2.md" %}
 
 {% page-ref page="1.3.md" %}
+
+{% page-ref page="1.4.md" %}
