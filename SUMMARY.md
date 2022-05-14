@@ -97,6 +97,7 @@
   * [7.4 goobi\_mail.xml](admin/7/7.4.md)
   * [7.5 goobi\_rest.xml](admin/7/7.5.md)
   * [7.6 goobi\_projects.xml](admin/7/7.6.md)
+  * [7.7 goobi\_config.properties](admin/7/7.7.md)
 * [8. Installationsanleitung](admin/8/README.md)
   * [8.1. Installationsanleitung - Ubuntu 20.04](admin/8/8.1.md)
 * [9. Updateanleitung](admin/9/README.md)
