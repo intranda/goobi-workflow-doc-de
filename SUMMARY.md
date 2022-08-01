@@ -102,6 +102,7 @@
   * [7.9 goobi\_normdata.xml](admin/7/7.9.md)
   * [7.10 goobi\_webapi.xml](admin/7/7.10.md)
   * [7.11 messages\_xx.properties](admin/7/7.11.md)
+  * [7.12 goobi\_processProperties.xml](admin/7/7.12.md)
 * [8. Installationsanleitung](admin/8/README.md)
   * [8.1. Installationsanleitung - Ubuntu 20.04](admin/8/8.1.md)
 * [9. Updateanleitung](admin/9/README.md)
