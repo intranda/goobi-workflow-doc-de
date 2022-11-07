@@ -44,6 +44,7 @@
     * [4.3.4. Serverseitiges exportierten](user/4/4.3/4.3.4.md)
     * [4.3.5. Serverseitiges importieren](user/4/4.3/4.3.5.md)
   * [4.4. OCR Ergebnisse bearbeiten](user/4/4.4.md)
+  * [4.5. Tastenkombinationen](user/4/4.5.md)
 
 ## Management <a id="manager"></a>
 
