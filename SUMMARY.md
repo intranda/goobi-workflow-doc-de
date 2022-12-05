@@ -106,7 +106,7 @@
   * [7.12 goobi\_processProperties.xml](admin/7/7.12.md)
   * [7.13 goobi\_activemq.xml](admin/7/7.13.md)
   * [7.14 goobi\_exportXml.xml](admin/7/7.14.md)
-  * [7.15 goobi\_contentServer.xml](admin/7/7.15.md)
+  * [7.15 config\_contentServer.xml](admin/7/7.15.md)
 * [8. Installationsanleitung](admin/8/README.md)
   * [8.1. Installationsanleitung - Ubuntu 20.04](admin/8/8.1.md)
 * [9. Updateanleitung](admin/9/README.md)
