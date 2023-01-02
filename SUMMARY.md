@@ -55,7 +55,7 @@
 * [5. Benutzer](manager/5.md)
 * [6. Benutzergruppen](manager/6.md)
 * [7. Vorgänge](manager/7/README.md)
-  * [7.1. Vorgänge filtern](manager/7/7.1.md)
+  * [7.1. Vorgänge suchen](manager/7/7.1.md)
   * [7.2. Aktionen](manager/7/7.2.md)
   * [7.3. Aktionen für Trefferlisten](manager/7/7.3.md)
   * [7.4. GoobiScript](manager/7/7.4.md)
