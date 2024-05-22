@@ -19,6 +19,7 @@
   * [2.9. Vorgänge](user/2/2.9.md)
   * [2.10. Nach einem Vorgang suchen](user/2/2.10.md)
   * [2.11. Anlegen von Vorgängen](user/2/2.11.md)
+  * [2.12. Aufgabendetails bearbeiten](user/2/2.12.md)
 * [3. Arbeiten mit Goobi für spezielle Benutzergruppen](user/3/README.md)
   * [3.1. Scannen](user/3/3.1.md)
   * [3.2. Qualitätskontrolle](user/3/3.2.md)
