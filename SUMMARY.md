@@ -4,18 +4,18 @@
 * [Dokumentationsübersicht](1.md)
 * [Was ist Goobi?](2.md)
 
-## Anwender <a id="user"></a>
+## Anwender <a href="#user" id="user"></a>
 
 * [1. Goobi für Anwender](user/1.md)
-* [2.  Allgemeines](user/2/README.md)
-  * [2.1.  Einloggen](user/2/2.1.md)
+* [2. Allgemeines](user/2/README.md)
+  * [2.1. Einloggen](user/2/2.1.md)
   * [2.2. Menü](user/2/2.2.md)
   * [2.3. Ausloggen](user/2/2.3.md)
   * [2.4. Sprachumschaltung](user/2/2.4.md)
   * [2.5. Hilfefunktion](user/2/2.5.md)
   * [2.6. Eigene Einstellungen](user/2/2.6.md)
   * [2.7. Passwort ändern](user/2/2.7.md)
-  * [2.8.  Meine Aufgaben](user/2/2.8.md)
+  * [2.8. Meine Aufgaben](user/2/2.8.md)
   * [2.9. Vorgänge](user/2/2.9.md)
   * [2.10. Nach einem Vorgang suchen](user/2/2.10.md)
   * [2.11. Anlegen von Vorgängen](user/2/2.11.md)
@@ -46,7 +46,7 @@
   * [4.4. OCR Ergebnisse bearbeiten](user/4/4.4.md)
   * [4.5. Tastenkombinationen](user/4/4.5.md)
 
-## Management <a id="manager"></a>
+## Management <a href="#manager" id="manager"></a>
 
 * [1. Die Verwaltung von Goobi](manager/1.md)
 * [2. Aufbau der erweiterten Nutzeroberfläche](manager/2.md)
@@ -61,14 +61,14 @@
   * [7.4. GoobiScript](manager/7/7.4.md)
 * [8. Variablensystem](manager/8.md)
 
-## Administration <a id="admin"></a>
+## Administration <a href="#admin" id="admin"></a>
 
 * [1. Die Administration von Goobi](admin/1.md)
 * [2. Dateisystem](admin/2/README.md)
   * [2.1. Globale Verzeichnisstruktur](admin/2/2.1/README.md)
     * [2.1.1. Unterverzeichnis ‚config’](admin/2/2.1/2.1.1.md)
     * [2.1.2. Unterverzeichnis ‚import’](admin/2/2.1/2.1.2.md)
-    * [2.1.3.  Unterverzeichnis ‚metadata’](admin/2/2.1/2.1.3/README.md)
+    * [2.1.3. Unterverzeichnis ‚metadata’](admin/2/2.1/2.1.3/README.md)
       * [2.1.3.1. 3D Objekte](admin/2/2.1/2.1.3/2.1.3.1..md)
     * [2.1.4. Unterverzeichnis ‚plugins’](admin/2/2.1/2.1.4.md)
     * [2.1.5. Unterverzeichnis ‚rulesets’](admin/2/2.1/2.1.5.md)
@@ -111,7 +111,12 @@
   * [8.1. Installationsanleitung - Ubuntu 20.04](admin/8/8.1.md)
 * [9. Updateanleitung](admin/9/README.md)
   * [9.1. Vorbereitung eines Updates](admin/9/9.1.md)
-  * [9.2. Updateschritte](admin/9/9.2.md)
+  * [9.2. Updateschritte](admin/9/9.2/README.md)
+    * [2024](admin/9/9.2/2024.md)
+    * [2023](admin/9/9.2/2023.md)
+    * [2022](admin/9/9.2/2022.md)
+    * [2021](admin/9/9.2/2021.md)
+    * [2020](admin/9/9.2/2020.md)
 * [10. Möglichkeiten der Authentifizierung](admin/10/README.md)
   * [10.1. Authentifizierung über die Datenbank](admin/10/10.1.md)
   * [10.2. Authentifizierung über HTTP-Header](admin/10/10.2.md)
@@ -120,7 +125,8 @@
   * [11.1. Thumbnails erzeugen für beschleunigte Bildanzeige](admin/11/11.1.md)
   * [11.2. Export von 3D-Objekten in den Goobi viewer](admin/11/11.2.md)
 
-## Entwickler <a id="dev"></a>
+## Entwickler <a href="#dev" id="dev"></a>
+
 * [1. Aufsetzen einer Entwicklungsumgebung](dev/1/README.md)
   * [1.1. Vorbereitende Arbeiten](dev/1/1.1.md)
   * [1.2. Einrichtung von Eclipse](dev/1/1.2.md)
@@ -130,4 +136,3 @@
 * [3. Snippets für die Entwicklung an Goobi workflow](dev/3/README.md)
   * [3.1. HTML](dev/3/3.1.md)
   * [3.2. JavaScript](dev/3/3.2.md)
-
